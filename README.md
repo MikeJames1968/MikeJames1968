@@ -1,11 +1,33 @@
 # Hi, I'm Michael Allen 👋
 
-### Senior Data Engineer & AI Logic Specialist
-I am a seasoned technical professional transitioning 20+ years of experience in **Relational Database Design** and **Legacy Systems** (Oracle, xBase, COBOL) into modern **Python Data Engineering**.
+### Data Migration Consultant | Legacy Modernisation, ETL & Reporting
 
-- 🛠 **Core Skills:** Advanced SQL (PL/SQL), Schema Architecture, ETL Pipelines, Technical Writing.
-- 🚀 **Current Focus:** Python for Data Science, PostgreSQL optimization, High-fidelity RLHF, Agentic AI
-- 📈 **Background:** Senior Project Manager for national-scale infrastructure (£23m+ budgets).
+I am a technical consultant with 20+ years of experience delivering large-scale data migration, ETL and reporting solutions across public-sector and enterprise environments.
+
+My background combines deep legacy systems knowledge (Oracle, PL/SQL, xBase/Clipper, COBOL) with modern SQL and Python-based data processing techniques. I am currently focused on PostgreSQL migration, Python data transformation, JSON handling and AI-assisted code evaluation workflows.
+
+## Core Areas of Focus
+
+- 🛠 Advanced SQL, relational database design and schema transformation
+- 🔄 ETL pipeline development, reconciliation and migration support
+- 🐍 Python for data processing, automation and transformation workflows
+- 📊 End-user reporting and semantic layer architecture (SAP Business Objects)
+- ✍ Structured technical communication and analytical writing
+
+## Current Repositories
+
+- `sql-python-data-manipulation`  
+  SQL, Python, ETL and data transformation exercises and utilities
+
+- `llm-evaluation-exercises-sql-python`  
+  Structured evaluations and critiques of LLM-generated SQL and Python solutions
+
+- `llm-evaluation-exercises-english`  
+  General English LLM evaluation and response-analysis exercises
+
+- `writing-portfolio`  
+  Selected analytical and long-form writing material
+
 ---
-  
-www.linkedin.com/in/mike-allen-a0639035
+
+🔗 LinkedIn: www.linkedin.com/in/mikejamesallen
