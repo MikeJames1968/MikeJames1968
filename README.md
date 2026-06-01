@@ -4,7 +4,7 @@
 
 I am a technical consultant with 20+ years of experience delivering large-scale data migration, ETL and reporting solutions across public-sector and enterprise environments.
 
-My background combines deep legacy systems knowledge (Oracle, PL/SQL, xBase/Clipper, COBOL) with modern SQL and Python-based data processing techniques. I am currently focused on PostgreSQL migration, Python data transformation, JSON handling and AI-assisted code evaluation workflows.
+My background combines deep legacy systems knowledge (Oracle, PL/SQL, xBase/Clipper, BASIX, COBOL) with modern SQL and Python-based data processing techniques. I am currently focused on PostgreSQL migration, Python data transformation, JSON handling and AI-assisted code evaluation workflows.
 
 ## Core Areas of Focus
 
